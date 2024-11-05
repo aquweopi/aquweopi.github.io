@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aquweopi.github.io/BeR/sitemap_index.txt
+Sitemap: https://aquweopi.github.io/lLG/sitemap_index.txt
+Sitemap: https://aquweopi.github.io/wSc/sitemap_index.txt
+Sitemap: https://aquweopi.github.io/yLo/sitemap_index.txt
